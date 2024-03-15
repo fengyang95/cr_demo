@@ -1,5 +1,5 @@
 openai:
-  key: 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 # "gradio" (set when request) or your_personal_openai_key
+  key: xxx # "gradio" (set when request) or your_personal_openai_key
 huggingface:
   token: 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 # required: huggingface token @ https://huggingface.co/settings/tokens
 dev: false
