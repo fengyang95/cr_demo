@@ -16,3 +16,4 @@ typeguard==2.13.3
 accelerate==0.18.0
 pytesseract==0.3.10
 gradio==3.24.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
